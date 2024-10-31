@@ -1,21 +1,230 @@
-# 💫 About Me:
-👋 Hi, I’m Akshay – a Data Scientist with a passion for AI and Machine Learning!<br><br>I love diving into data and uncovering the insights that drive real-world impact. My journey in data science has been all about solving complex problems using advanced ML models, real-time analytics, and cloud technologies.<br><br>🔧 What I’m Good At:<br><br>Machine Learning & AI: I turn raw data into powerful predictive models, uncovering trends and patterns that help make smarter business decisions.<br>Real-Time Analytics: I thrive on finding insights in fast-moving streams of data, delivering real-time solutions to drive immediate action.<br>Data Strategy & Optimization: I’m all about building data-driven strategies, optimizing complex workflows, and ensuring data is always leveraged to its full potential.<br><br>🎯 What I’m Working On:<br>Currently, I’m exploring how AI can be used in genomic medicine for personalized healthcare. I’m also building Retrieval-Augmented Generation (RAG) applications using open-source LLM models – always excited to learn and implement the latest in AI!
+<div align="center">
 
+```ascii
+ ___________________
+< Data Is My Canvas >
+ -------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-bheda9630) 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+Data+World!;I'm+Akshay+Bheda;Data+Explorer+%F0%9F%94%8D;Code+Artist+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abheda24&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abheda24&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abheda24&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```python
+class DataNerd:
+    def __init__(self):
+        self.name = "Akshay"
+        self.superpower = "Turning Coffee into Insights ☕→📊"
+        self.interests = [
+            "Finding patterns in chaos 🎲",
+            "Building data pipelines 🔧",
+            "Training neural networks 🧠",
+            "Visualizing the invisible 📈"
+        ]
+    
+    def daily_routine(self):
+        while awake:
+            coffee.drink()
+            data.explore()
+            insights.discover()
+            if stuck:
+                stackoverflow.search()
+```
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎮 My Data Playground
 
----
-[![](https://visitcount.itsvg.in/api?id=abheda24&icon=0&color=0)](https://visitcount.itsvg.in)
+```mermaid
+mindmap
+  root((My Data
+  Universe))
+    (Exploration)
+      [Python Magic]
+      [SQL Queries]
+      [Data Viz]
+    (Engineering)
+      [ETL Fun]
+      [Pipeline Building]
+      [Spark Adventures]
+    (ML Journey)
+      [PyTorch]
+      [scikit-learn]
+      [Neural Nets]
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tools I'm Learning & Using
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="48" height="48" alt="Databricks" />
+        <br>Databricks
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
+        <br>Snowflake
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="48" height="48" alt="Spark" />
+        <br>Spark
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48" height="48" alt="Kafka" />
+        <br>Kafka
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+        <br>Kubernetes
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" alt="Airflow" />
+        <br>Airflow
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
+  <!-- Additional Tools Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  </p>
+</div>
+
+### 📊 Current Adventures in Data
+
+```python
+my_journey = {
+    "currently_learning": [
+        "Building ML Models 🤖",
+        "Data Pipeline Magic ⚡",
+        "Cloud Computing ☁️",
+    ],
+    "excited_about": [
+        "Big Data Processing",
+        "Neural Networks",
+        "Data Visualization"
+    ],
+    "favorite_algorithms": [
+        "Random Forests 🌳",
+        "Neural Nets 🧠",
+        "Clustering 🎯"
+    ]
+}
+```
+
+### 🎯 My Data Science Journey
+
+<div align="center">
+
+| What I Love | Why I Love It |
+|-------------|---------------|
+| 📊 Data Analysis | Finding hidden patterns in data is like solving puzzles! |
+| 🤖 Machine Learning | Teaching computers to learn? That's literally magic! |
+| 🔧 Data Engineering | Building pipelines is like creating digital Lego structures! |
+| 📈 Visualization | Making data tell beautiful stories! |
+
+</div>
+
+### ⚡ Fun Facts
+
+```python
+# Things that excite me:
+excitement = {
+    "Clean Data": "As satisfying as organizing your room! 🧹",
+    "Successful Model": "Better than coffee! ☕",
+    "Pipeline Works": "Pure digital happiness! 🎉",
+    "New Algorithm": "Like learning a new spell! 🪄"
+}
+```
+
+### 🌱 Growing & Learning
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/abheda24">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abheda24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20GitHub%20Adventures"/>
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/abheda24">
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=abheda24&theme=tokyonight&hide_border=true"/>
+  </a>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/abheda24">
+    <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=abheda24&theme=tokyo-night&hide_border=true"/>
+  </a>
+</div>
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/akshay-bheda9630">
+    <img src="https://img.shields.io/badge/Let's_Talk_Data!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abheda@stevens.edu">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+```python
+# Remember:
+# Every data scientist started somewhere.
+# The journey of a thousand models begins with a single line of code! 🚀
+```
